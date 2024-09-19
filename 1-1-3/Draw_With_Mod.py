@@ -4,7 +4,7 @@
 import turtle as trtl
 
 painter = trtl.Turtle()
-painter.speed(0)
+painter.speed(10)
 painter.pensize(5)
 
 # starting location of the tower
